@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Mateus Vallim's GitHub stats](https://github-readme-stats.vercel.app/api?username=vallimmateus&hide=stars,issues&count_private=true&show_icons=true&title_color=var(--color-text-primary)&text_color=var(--color-text-secondary))](https://github.com/anuraghazra/github-readme-stats)
+[![Mateus Vallim's GitHub stats](https://github-readme-stats.vercel.app/api?username=vallimmateus&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&icon_color=58A6FF&title_color=C9D1D9&text_color=8B949E&bg_color=0D111700&border_color=30363D&locale=pt-br&border_radius=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **vallimmateus/vallimmateus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
