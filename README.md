@@ -11,12 +11,11 @@
 ### Atualmente estou trabalhando em:
 
 <a href="https://github.com/vallimmateus/gammembers">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vallimmateus&repo=gammembers&title_color=C9D1D9&text_color=8B949E&bg_color=0D111700&border_color=30363D&locale=pt-br&border_radius=6" style="float: right" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vallimmateus&repo=Bigu&title_color=C9D1D9&text_color=8B949E&bg_color=0D111700&border_color=30363D&locale=pt-br&border_radius=6" style="float: right" />
 <div>
   <br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
 </div>
 </a>
 
