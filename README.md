@@ -10,7 +10,7 @@
 ----
 ### Atualmente estou trabalhando em:
 
-<a href="https://github.com/vallimmateus/gammembers">
+<a href="https://github.com/vallimmateus/Bigu">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vallimmateus&repo=Bigu&title_color=C9D1D9&text_color=8B949E&bg_color=0D111700&border_color=30363D&locale=pt-br&border_radius=6" style="float: right" />
 <div>
   <br>
