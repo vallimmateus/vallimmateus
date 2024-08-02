@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/vallimmateus">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vallimmateus&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&icon_color=58A6FF&title_color=C9D1D9&text_color=8B949E&bg_color=0D111700&border_color=30363D&locale=pt-br&border_radius=6" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallimmateus&layout=compact&title_color=C9D1D9&text_color=8B949E&bg_color=0D111700&border_color=30363D&locale=pt-br&border_radius=6" />
+    <img height="150em" src="https://github-readme-stats-mateus-vallim-martins-projects.vercel.app//api?username=vallimmateus&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&icon_color=58A6FF&title_color=C9D1D9&text_color=8B949E&bg_color=0D111700&border_color=30363D&locale=pt-br&border_radius=6" />
+    <img height="150em" src="https://github-readme-stats-mateus-vallim-martins-projects.vercel.app//api/top-langs/?username=vallimmateus&layout=compact&title_color=C9D1D9&text_color=8B949E&bg_color=0D111700&border_color=30363D&locale=pt-br&border_radius=6" />
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 
 <a href="https://github.com/vallimmateus/Bigu">
   <img src="Github.png" style="border-radius: 15 px !important; overflow: hidden;" />
-  <!--https://github-readme-stats.vercel.app/api/pin/?username=vallimmateus&repo=Bigu&title_color=C9D1D9&text_color=8B949E&bg_color=0D111700&border_color=30363D&locale=pt-br&border_radius=6" style="float: right" />-->
+  <!--https://github-readme-stats-mateus-vallim-martins-projects.vercel.app//api/pin/?username=vallimmateus&repo=Bigu&title_color=C9D1D9&text_color=8B949E&bg_color=0D111700&border_color=30363D&locale=pt-br&border_radius=6" style="float: right" />-->
 <div>
   <br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
